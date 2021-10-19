@@ -1,2 +1,4 @@
 # UK-census
-Manipulating data about the population in the UK in the pandas library in python to create and verify a hypothesis with the help of a z-test
+Manipulating data about the population in the UK in the pandas library in python to create and verify a hypothesis with the help of a z-test.
+
+Use jupyter notebook to view and edit to your liking.
